@@ -1,4 +1,4 @@
-# NLPproject-Fact_checked-claims-detect
+# NLPproject-Fact_Checked-Claims-Detect
 Delivered as a project for the course "Natural Language Processing"
 
 
